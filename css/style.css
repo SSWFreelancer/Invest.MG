@@ -2475,6 +2475,9 @@ body.dark .newsletter__input {
   margin-right: 10px;
   background: none;
 }
+body.dark .newsletter__input input{
+  color: #fff;
+}
 @media (max-width: 991px) {
   .newsletter__input input {
     font-size: 16px;

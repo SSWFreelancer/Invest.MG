@@ -2013,6 +2013,9 @@ body {
         font-size: 16px;
         padding-left: 0;
       }
+      body.dark &{
+        color: #fff;
+      }
     }
     & button{
       font-size: 14px;
